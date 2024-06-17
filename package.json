@@ -1,0 +1,17 @@
+{
+  "name": "tel-area-code",
+  "version": "1.0.0",
+  "description": "国际长途电话区号",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "area code", "区号", "电话"
+  ],
+  "author": "wuzhitao",
+  "license": "ISC",
+  "homepage": "https://github.com/sutras/tel-area-code",
+  "repository": {
+    "url": "git+https://github.com/sutras/tel-area-code.git"  }
+}
