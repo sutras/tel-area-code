@@ -11,5 +11,18 @@ npm install tel-area-code
 # 使用
 
 ```
-import areaCode from 'tel-area-code/data.json'
+import areaCode from 'tel-area-code'
+```
+
+# 类型
+
+```ts
+declare const _default: {
+  short: string;
+  name: string;
+  en: string;
+  code: string;
+  pinyin: string;
+}[];
+export default _default;
 ```
